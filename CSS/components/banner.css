@@ -1,0 +1,29 @@
+.banner {
+	margin:20px 10px;
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 20%, rgba(0,0,0,0) 50%), url("../../images/Gourd Duo Eau.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 150px 100px;
+ 	box-shadow: 5px 5px 10px rgba(0,0,0,0.9);
+
+}
+
+.banner h1 {
+	font-size:60px;
+	font-weight: bolder;
+	color:white;
+}
+
+.banner h2 {
+	font-size:50px
+	font-weight: normal;
+	opacity: 1;
+	margin-bottom: 30px;
+}
+
+.bannerForm {
+	margin:10px 10px;
+	color: white;
+	padding: 10px 10px;
+}
